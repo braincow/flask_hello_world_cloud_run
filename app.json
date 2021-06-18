@@ -1,0 +1,7 @@
+{
+    "name": "flask-hello-world",
+    "options": {
+        "allow-unauthenticated": true,
+        "http2": false
+    }
+}
